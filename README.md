@@ -4,7 +4,7 @@
 
 # Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px" height="35px"> I'm Darish Dias
 
-![Profile Views](https://komarev.com/ghpvc/?username=darishSFIT&label=Profile%20views&color=0e75b6&style=flat) ![GitHub followers](https://img.shields.io/github/followers/darishSFIT?style=social) ![GitHub stars](https://img.shields.io/github/stars/darishSFIT?style=social)
+![Profile Views](https://komarev.com/ghpvc/?username=DarishDias&label=Profile%20views&color=0e75b6&style=flat) ![GitHub followers](https://img.shields.io/github/followers/DarishDias?style=social) ![GitHub stars](https://img.shields.io/github/stars/DarishDias?style=social)
 
 Welcome to my GitHub profile! I'm a passionate developer with interests in Cloud Computing as well as Web Development. Here you'll find my projects, contributions, and more about my work.
 
@@ -35,17 +35,17 @@ Welcome to my GitHub profile! I'm a passionate developer with interests in Cloud
 
 ## 🔥 My Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=darishSFIT&show_icons=true&hide_border=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DarishDias&show_icons=true&hide_border=true&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=darishSFIT&layout=compact&hide_border=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DarishDias&layout=compact&hide_border=true&theme=radical)
 
 ## 📈 Contributions
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=darishSFIT&theme=radical)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DarishDias&theme=radical)](https://git.io/streak-stats)
 
 ## 🏆 Achievements
 
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=darishSFIT&theme=radical)
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=DarishDias&theme=radical)
 
 ## 📫 Connect with Me
 
@@ -55,22 +55,22 @@ Welcome to my GitHub profile! I'm a passionate developer with interests in Cloud
 
 ## 💼 Projects
 
-### [SafeSearch](https://github.com/darishSFIT/SafeSearch)
+### [SafeSearch](https://github.com/DarishDias/SafeSearch)
 A search engine in the form of a web application made using python's Django framework (used for web app creation) that allows the user to search for content throughout the internet. This project also includes features such as I'm Feeling Lucky (random website), Voice Assistant, local file search and account creation. 
 
 **Skills: Django · Python (Programming Language) · HTML · Cascading Style Sheets (CSS) · Back-End Web Development**
 
-### [Foodie](https://github.com/darishSFIT/Foodie)
+### [Foodie](https://github.com/DarishDias/Foodie)
 A two in one website making it simpler for local restaurants business to grow online and making it easier to book (tables) and order (food) through various payment means. The project was made using React.js for frontend as well as Node.js and Express for backend and MongoDB for database.
 
 **Skills: Web Development · Front-End Development · React.js · Back-End Web Development · Node.js**
 
-### [FRAS](https://github.com/darishSFIT/FRAS)
+### [FRAS](https://github.com/DarishDias/FRAS)
 A Face Recognition based Attendance tracking and recording System made using python and Machine Learning which can be used to track and save student(s) attendance in an automated fashion replacing the traditional method which involved manual entry of attendances by the class teacher
 
 **Skills: Python (Programming Language) · Machine Learning**
 
-### [Smart Car Parking](https://github.com/darishSFIT/SmartCarParking)
+### [Smart Car Parking](https://github.com/DarishDias/SmartCarParking)
 This system seeks to optimize parking space utilization, improve traffic flow, and enhance user experience by providing real-time parking availability updates, automated entry/exit control, and efficient management of parking spaces.
 
 **Skills: Python (Programming Language) · Arduino Programming (C++)**
