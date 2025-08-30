@@ -6,7 +6,7 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=DarishDias&label=Profile%20views&color=0e75b6&style=flat) ![GitHub followers](https://img.shields.io/github/followers/DarishDias?style=social) ![GitHub stars](https://img.shields.io/github/stars/DarishDias?style=social)
 
-Welcome to my GitHub profile! I'm a passionate developer with interests in Cloud Computing as well as Web Development. Here you'll find my projects, contributions, and more about my work.
+Welcome to my GitHub profile! I'm a passionate developer with interests in Cloud Computing as well as PowerApps. Here you'll find my projects, contributions, and more about my work.
 
 ## About Me
 
@@ -23,15 +23,16 @@ Welcome to my GitHub profile! I'm a passionate developer with interests in Cloud
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) 
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) 
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black) 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) 
-![AngularJS](https://img.shields.io/badge/AngularJS-E23237?style=for-the-badge&logo=angularjs&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) 
 ![GitHub](https://img.shields.io/badge/GitHub-282e42?style=for-the-badge&logo=github&logoColor=white) 
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) 
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078D4?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![VS Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078D4?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+
 
 ## 🔥 My Stats
 
