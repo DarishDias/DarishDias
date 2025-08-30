@@ -10,9 +10,9 @@ Welcome to my GitHub profile! I'm a passionate developer with interests in Cloud
 
 ## About Me
 
-- 🌱 I’m currently learning Web Development, Cloud Computing, DevOps
-- 👯 I’m looking to collaborate on web dev and cloud as well DevOps related projects in order to learn and improve.
-- 💬 Ask me about Operating Systems and (Windows/Linux/UNIX) related queries regarding troubleshotting.
+- 🌱 I’m currently learning Microsoft Dynamics 365 Sales/Project Operations, C# Plugins, Form Scripting, PowerApps, Canvas Apps
+- 👯 I’m looking to collaborate towards PowerApps (entity/form/view customization, Canvas Apps and Form scripting, Plugins) related projects in order to learn and improve.
+- 💬 Ask me about Operating Systems Android and (Windows/Linux) related queries regarding troubleshotting.
 - 📫 How to reach me: [Email me](mailto:darishdias30@gmail.com)
 - ⚡ Fun fact: I have used every windows OS (7, 8, 10, 11) and tried every major Linux Desktop Environments (XFCE, KDE, GNOME)
 
