@@ -1,4 +1,4 @@
-<div align="center"> 
+<img width="1319" height="2268" alt="image" src="https://github.com/user-attachments/assets/15e18d9e-719e-4f6f-822a-af97dca88a9e" /><img width="1319" height="2268" alt="image" src="https://github.com/user-attachments/assets/db59b751-571f-4f5e-a59e-0b789997e64c" /><div align="center"> 
 	<img src="/images/darish-banner-github.png" alt="header"> 
 </div>
 
@@ -10,11 +10,12 @@ Welcome to my GitHub profile! I'm a passionate developer with interests in Cloud
 
 ## About Me
 
-- 🌱 I’m currently learning Microsoft Dynamics 365 Sales/Project Operations, C# Plugins, Form Scripting, PowerApps, Canvas Apps
+- 🌱 I'm a Microsoft Dynamics 365 CRM Developer and have experience in CRM Customizations, Azure Functions / Plugins (C#), Form Scripting (JavaScript), Power Apps, Canvas Apps, Power Automate, Microsoft Fabric.
 - 👯 I’m looking to collaborate towards PowerApps (entity/form/view customization, Canvas Apps and Form scripting, Plugins) related projects in order to learn and improve.
 - 💬 Ask me about Operating Systems Android and (Windows/Linux) related queries regarding troubleshotting.
 - 📫 How to reach me: [Email me](mailto:darishdias30@gmail.com)
 - ⚡ Fun fact: I have used every windows OS (7, 8, 10, 11) and tried every major Linux Desktop Environments (XFCE, KDE, GNOME)
+- Current learning topics: Power BI, Azure Pipelines
 
 
 ### 💻 Tech Stack:
@@ -32,6 +33,7 @@ Welcome to my GitHub profile! I'm a passionate developer with interests in Cloud
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) 
 ![VS Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078D4?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+
 
 
 ## 🔥 My Stats
