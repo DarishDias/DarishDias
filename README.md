@@ -1,4 +1,4 @@
-<img width="1319" height="2268" alt="image" src="https://github.com/user-attachments/assets/15e18d9e-719e-4f6f-822a-af97dca88a9e" /><img width="1319" height="2268" alt="image" src="https://github.com/user-attachments/assets/db59b751-571f-4f5e-a59e-0b789997e64c" /><div align="center"> 
+<div align="center"> 
 	<img src="/images/darish-banner-github.png" alt="header"> 
 </div>
 
@@ -33,7 +33,6 @@ Welcome to my GitHub profile! I'm a passionate developer with interests in Cloud
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) 
 ![VS Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078D4?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-
 
 
 ## 🔥 My Stats
